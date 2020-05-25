@@ -1,2 +1,6 @@
 # testingProyecto
-Aplicacion para testear proyecto final de curso
+Aplicacion para testear proyecto final de curso de Jonatan Alvarez Jimenez
+
+Para poner en marcha esta aplicación es necesario tener instalado IntellIJ.
+
+No es necesario mas instalaciones.
